@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    $("#btnP3").on("click",newPage);
+    $("#btnP3").on("click",newPage); 
 });
 
 function newPage(){
